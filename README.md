@@ -61,8 +61,8 @@
 
 <div align="center">
   <!-- GitHub Stats & Top Languages Card (Custom Dark/Gold Theme) -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zhsaikot&show_icons=true&bg_color=0d0e14&title_color=e6ad48&text_color=e2e8f0&icon_color=e6ad48&border_color=222634&hide_border=false" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhsaikot&layout=compact&bg_color=0d0e14&title_color=e6ad48&text_color=e2e8f0&border_color=222634&hide_border=false" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=zhsaikot&show_icons=true&bg_color=0d0e14&title_color=e6ad48&text_color=e2e8f0&icon_color=e6ad48&border_color=222634&hide_border=false" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=zhsaikot&layout=compact&bg_color=0d0e14&title_color=e6ad48&text_color=e2e8f0&border_color=222634&hide_border=false" />
 </div>
 
 <div align="center">
@@ -72,5 +72,5 @@
 
 <div align="center">
   <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zhsaikot&bg_color=0d0e14&color=e6ad48&line=e6ad48&point=ffffff&area=true&hide_border=false&border_color=222634" width="98%" />
+  <img src="https://activity-graph.vercel.app/graph?username=zhsaikot&bg_color=0d0e14&color=e6ad48&line=e6ad48&point=ffffff&area=true&hide_border=false&border_color=222634" width="98%" />
 </div>
