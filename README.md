@@ -60,17 +60,13 @@
 ### 📊 GitHub Analytics & Activity Charts
 
 <div align="center">
-  <!-- GitHub Stats & Top Languages Card (Custom Dark/Gold Theme) -->
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=zhsaikot&show_icons=true&bg_color=0d0e14&title_color=e6ad48&text_color=e2e8f0&icon_color=e6ad48&border_color=222634&hide_border=false" />
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=zhsaikot&layout=compact&bg_color=0d0e14&title_color=e6ad48&text_color=e2e8f0&border_color=222634&hide_border=false" />
-</div>
-
-<div align="center">
   <!-- GitHub Streak Stats -->
   <img src="https://streak-stats.demolab.com?user=zhsaikot&theme=dark&background=0D0E14&border=222634&stroke=222634&ring=E6AD48&fire=E6AD48&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=E6AD48&sideLabels=94A3B8&dates=64748B" alt="GitHub Streak" />
 </div>
 
+<br/>
+
 <div align="center">
   <!-- Activity Graph -->
-  <img src="https://activity-graph.vercel.app/graph?username=zhsaikot&bg_color=0d0e14&color=e6ad48&line=e6ad48&point=ffffff&area=true&hide_border=false&border_color=222634" width="98%" />
+  <img src="https://activity-graph.vercel.app/graph?username=zhsaikot&bg_color=0d0e14&color=e6ad48&line=e6ad48&point=ffffff&area=true&hide_border=false&border_color=222634" width="98%" alt="GitHub Activity Graph" />
 </div>
