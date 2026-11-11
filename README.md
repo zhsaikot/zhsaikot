@@ -40,7 +40,10 @@
   <img src="https://img.shields.io/badge/Shopify-161b22?style=for-the-badge&logo=shopify&logoColor=39d353" />
   <img src="https://img.shields.io/badge/Webflow-161b22?style=for-the-badge&logo=webflow&logoColor=39d353" />
   <img src="https://img.shields.io/badge/JavaScript-161b22?style=for-the-badge&logo=javascript&logoColor=39d353" />
+  <img src="https://img.shields.io/badge/TypeScript-161b22?style=for-the-badge&logo=typescript&logoColor=39d353" />
   <img src="https://img.shields.io/badge/HTML5_&_CSS3-161b22?style=for-the-badge&logo=html5&logoColor=39d353" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-161b22?style=for-the-badge&logo=tailwindcss&logoColor=39d353" />
+  <img src="https://img.shields.io/badge/Git-161b22?style=for-the-badge&logo=git&logoColor=39d353" />
   <img src="https://img.shields.io/badge/Core_Web_Vitals-161b22?style=for-the-badge&logo=pagespeedinsights&logoColor=39d353" />
 </div>
 
@@ -69,4 +72,26 @@
 <div align="center">
   <!-- Activity Graph -->
   <img src="https://activity-graph.vercel.app/graph?username=zhsaikot&bg_color=0d1117&color=39d353&line=39d353&point=ffffff&area=true&area_color=26a641&hide_border=false&border_color=30363d" width="98%" alt="GitHub Activity Graph" />
+</div>
+
+<br/>
+
+<div align="center">
+  <!-- Contribution Snake -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zhsaikot/zhsaikot/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zhsaikot/zhsaikot/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/zhsaikot/zhsaikot/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
+</div>
+
+---
+
+<div align="center">
+  <h3>🤝 Let's Build Something Extraordinary</h3>
+  <p>Looking for a high-converting website, speed optimization, or custom web architecture?</p>
+  <p>
+    <a href="https://mdziaulhasan.com/book-consultation.html"><img src="https://img.shields.io/badge/BOOK_A_STRATEGY_CALL-238636?style=for-the-badge&logo=googlecalendar&logoColor=ffffff" alt="Book a Strategy Call" /></a>
+    <a href="mailto:zhsaikot@gmail.com"><img src="https://img.shields.io/badge/SEND_AN_EMAIL-161b22?style=for-the-badge&logo=gmail&logoColor=39d353" alt="Send an Email" /></a>
+  </p>
 </div>
