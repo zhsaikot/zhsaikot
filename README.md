@@ -47,6 +47,17 @@
   <img src="https://img.shields.io/badge/Core_Web_Vitals-161b22?style=for-the-badge&logo=pagespeedinsights&logoColor=39d353" />
 </div>
 
+<br/>
+
+<div align="center">
+  <!-- Contribution Snake -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zhsaikot/zhsaikot/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zhsaikot/zhsaikot/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/zhsaikot/zhsaikot/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
+</div>
+
 ---
 
 ### 🌟 Featured Commercial Builds
@@ -72,17 +83,6 @@
 <div align="center">
   <!-- Activity Graph -->
   <img src="https://activity-graph.vercel.app/graph?username=zhsaikot&bg_color=0d1117&color=39d353&line=39d353&point=ffffff&area=true&area_color=26a641&hide_border=false&border_color=30363d" width="98%" alt="GitHub Activity Graph" />
-</div>
-
-<br/>
-
-<div align="center">
-  <!-- Contribution Snake -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zhsaikot/zhsaikot/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zhsaikot/zhsaikot/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/zhsaikot/zhsaikot/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
 </div>
 
 ---
